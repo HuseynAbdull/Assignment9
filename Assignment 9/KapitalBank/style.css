@@ -76,7 +76,6 @@ a{
         display: none;
     }
     .homepage{
-        flex-wrap:wrap;
         display: flex;
         flex-direction: column-reverse;
     }
